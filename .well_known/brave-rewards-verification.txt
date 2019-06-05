@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ritvikbanakar.github.io
+Token: ead5a5eb7d00da8cee6e2e67866727adc78417f7caea2e723f9130f6b80fcdd3
