@@ -4,7 +4,8 @@
         <meta charset="UTF-8">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:100,300,400,600" rel="stylesheet" type="text/css">
         <link type="text/css" rel="stylesheet" href="style.css">
-        <title>Budgety</title>
+        <title>Wave Transfer</title>
+        
     </head>
     <body>
         
@@ -34,18 +35,20 @@
                     
                     <input type="text" class="add__description" id="rkey" placeholder="Recipient Address">
                     <input type="number" class="add__value" id="amount" placeholder="Amount">
+                    <button onclick="login()">Login</button>
                     <button onclick="test()">Send</button>
 
                 </div>
             </div>
             
             <div class="container clearfix">
-                
+                <p id="loginstat">Login Status: Pending</p>
             </div>
             
             
         </div>
         
         <script src="bundle.js"></script>
+        
     </body>
 </html>

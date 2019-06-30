@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "@waves/waves-transactions": "^3.10.3"
+    "@waves/waves-transactions": "^3.10.3",
+    "firebase": "^6.2.4"
   },
   "devDependencies": {},
   "scripts": {
