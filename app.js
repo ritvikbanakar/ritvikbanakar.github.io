@@ -17,6 +17,7 @@ const firebaseConfig = {
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 var seed = "";
+var amount = 0;
 
 global.login = function(){
   var email = document.getElementById("email").value;
@@ -39,34 +40,58 @@ global.loginStat = function(){
     this.console.log("Welcome");
     document.getElementById("loginstat").innerHTML="Login Status: Successful ";
   }
-}
-global.test = function(){
-     var userID = firebase.auth().currentUser;
+   
+  var userID = firebase.auth().currentUser;
     var ref = firebase.database().ref("Users/" + userID.uid);
     ref.once("value", function(snapshot){
       // Contains all data from Firebase
       var data = snapshot.val();
+      this.console.log(ref);
+
       // Has customer name
       var wordPhrase = data.Waves_Phrase;
       seed=wordPhrase;
-      });
-    
-    
-    
-  var rkey = document.getElementById("rkey").value;
-    var amount = document.getElementById("amount").value/8;
-    //var name = document.getElementById("name").value;
-    //console.log(name + " " + email + " " + rkey + " " + amount);
-    const { transfer } = require('@waves/waves-transactions')
-    const signedTx = transfer({
-    amount: amount*8,
-      recipient: rkey,
-    }, seed)
-     const {broadcast} =  require('@waves/waves-transactions');
-   const nodeUrl = 'https://testnodes.wavesnodes.com';
+      var eventID = data.currentEvent; 
+      var path = ("Events/" + eventID);
+      
+      
+      var ref1 = firebase.database().ref(path);
    
-   broadcast(signedTx, nodeUrl).then(resp => console.log(resp))
-   document.getElementById("txStat").innerHTML="Transaction Status: Successful ";
-
+      this.console.log(ref1);
+      ref1.once("value", function(snapshot){
+        // Contains all data from Firebase
+        var data1 = snapshot.val();
+        console.log(data1);
+        
+        // Has customer name
+        console.log(data1.money);
+        
+        document.getElementById("amount").value = data1.money;
+        });     
+    });
+ 
+}
+global.test = function(){
+     
+      amount = document.getElementById("amount").value;
+      this.console.log(amount);
+      var rkey = document.getElementById("rkey").value;
+      const { transfer } = require('@waves/waves-transactions')
+      const signedTx = transfer({
+      amount: amount*100000000,
+        recipient: rkey,
+      }, seed)
+       const {broadcast} =  require('@waves/waves-transactions');
+     const nodeUrl = 'https://testnodes.wavesnodes.com';
+     
+     broadcast(signedTx, nodeUrl).then(resp => console.log(resp))
+     document.getElementById("txStat").innerHTML="Transaction Status: Successful ";
+  
     
+    
+  
+ 
   }
+
+  
+
