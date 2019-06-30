@@ -2,6 +2,7 @@ var firebase = require("firebase/app");
 
 // Add the Firebase products that you want to use
 require("firebase/auth");
+require("firebase/database")
 // TODO: Replace the following with your app's Firebase project configuration
 const firebaseConfig = {
   apiKey: "AIzaSyAR0KcvqiNaPyel7isOouRbP2m_7aw3r9s",
@@ -28,7 +29,7 @@ global.login = function(){
     console.log(errorMessage);
     // ...
     });
-    setTimeout(function() { loginStat(); }, 550);
+    setTimeout(function() { loginStat(); }, 800);
     
 }
 
@@ -47,7 +48,6 @@ global.test = function(){
       var data = snapshot.val();
       // Has customer name
       var wordPhrase = data.Waves_Phrase;
-      this.console.log(wordPhrase+ " ");
       seed=wordPhrase;
       });
     
@@ -66,5 +66,7 @@ global.test = function(){
    const nodeUrl = 'https://testnodes.wavesnodes.com';
    
    broadcast(signedTx, nodeUrl).then(resp => console.log(resp))
+   document.getElementById("txStat").innerHTML="Transaction Status: Successful ";
+
     
   }
