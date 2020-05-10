@@ -3,66 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.ritvik.dev/about/tags/52books2020/</loc>
+    <loc>https://www.ritvik.dev/tags/52books2020/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ritvik.dev/about/tags/books/</loc>
+    <loc>https://www.ritvik.dev/tags/books/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ritvik.dev/about/posts/</loc>
+    <loc>https://www.ritvik.dev/posts/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/tags/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/posts/the-goal/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/posts/experiment1/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/about-blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/projects/vibes/</loc>
   </url>
   
   <url>
     <loc>https://www.ritvik.dev/about/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ritvik.dev/about/tags/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ritvik.dev/about/posts/the-goal/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ritvik.dev/about/posts/experiment1/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ritvik.dev/about/about-blog/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.ritvik.dev/about/archive/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.ritvik.dev/about/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.ritvik.dev/about/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.ritvik.dev/about/projects/vibes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.ritvik.dev/about/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.ritvik.dev/about/work/</loc>
+    <loc>https://www.ritvik.dev/work/</loc>
   </url>
   
 </urlset>
