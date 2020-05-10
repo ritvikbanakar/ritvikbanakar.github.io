@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ritvik Banakar</title>
-    <link>https://www.ritvik.dev/</link>
+    <link>https://www.ritvik.dev/about/</link>
     <description>Recent content on Ritvik Banakar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Ritvik Banakar. Built with&amp;nbsp;&lt;a href=&#39;https://www.ritvik.dev/about-blog&#39;&gt;Hugo&lt;/a&gt;</copyright>
+    <copyright>Ritvik Banakar. Built with&amp;nbsp;&lt;a href=&#39;https://www.ritvik.dev/about/about-blog&#39;&gt;Hugo&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.ritvik.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ritvik.dev/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Goal</title>
-      <link>https://www.ritvik.dev/posts/the-goal/</link>
+      <link>https://www.ritvik.dev/about/posts/the-goal/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ritvik.dev/posts/the-goal/</guid>
+      <guid>https://www.ritvik.dev/about/posts/the-goal/</guid>
       <description>What is the point of this?
 Mission • To Experiment, Document, and Augment
 16 years old and still developing, my brain is in a rapid state of growth as I approach adulthood. I wanted to start this website because I believe that in this modern era, people unknowingly overstimulate themselves as they indulge in technological advancements primarily in entertainment. Our primitive lymbic system loves the binging and distracing as it&amp;rsquo;s primary purpose is to simply keep us alive.</description>
@@ -25,10 +25,10 @@ Mission • To Experiment, Document, and Augment
     
     <item>
       <title>“If you don’t like to read, you haven’t found the right book.”</title>
-      <link>https://www.ritvik.dev/posts/experiment1/</link>
+      <link>https://www.ritvik.dev/about/posts/experiment1/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ritvik.dev/posts/experiment1/</guid>
+      <guid>https://www.ritvik.dev/about/posts/experiment1/</guid>
       <description>Goal One Read 52 books in 2020
 Write a brief summary and takeaway for each book.
 Why? Books are an incredible dense source of material in which through active engagement, one can understand decades worth of research.</description>
@@ -36,47 +36,47 @@ Why? Books are an incredible dense source of material in which through active en
     
     <item>
       <title>About the Website</title>
-      <link>https://www.ritvik.dev/about-blog/</link>
+      <link>https://www.ritvik.dev/about/about-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ritvik.dev/about-blog/</guid>
+      <guid>https://www.ritvik.dev/about/about-blog/</guid>
       <description>This site is built with Hugo and uses the hello-friend theme created by panr. Inspired by Jonathan Borichevskiy. Hosted on Github Pages.</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>https://www.ritvik.dev/archive/</link>
+      <link>https://www.ritvik.dev/about/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ritvik.dev/archive/</guid>
+      <guid>https://www.ritvik.dev/about/archive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vibes Save Lives</title>
-      <link>https://www.ritvik.dev/projects/vibes/</link>
+      <link>https://www.ritvik.dev/about/projects/vibes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ritvik.dev/projects/vibes/</guid>
+      <guid>https://www.ritvik.dev/about/projects/vibes/</guid>
       <description>Check out our video presentation to the City Council Of Cupertino by clicking here. This program won first at Hack Cupertino 2018, a city held hackthon. This project was one that was inspired by an interesting observation. Essentially, while listening to a sad Indian song I hypothesized that people that are depressed often listen to depressing/sad music as well. Through further research with the internet it turns out that my hypothesis was in fact correct.</description>
     </item>
     
     <item>
       <title>Who am I?</title>
-      <link>https://www.ritvik.dev/about/</link>
+      <link>https://www.ritvik.dev/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ritvik.dev/about/</guid>
+      <guid>https://www.ritvik.dev/about/about/</guid>
       <description>My name is Ritvik Banakar, and I am currently a junior at Monta Vista High School. I am interested in app development, computer programming, and physics, and am planning on pursuing a major in Computer Science.
 Github • LinkedIn • Instagram • Devpost</description>
     </item>
     
     <item>
       <title>Work</title>
-      <link>https://www.ritvik.dev/work/</link>
+      <link>https://www.ritvik.dev/about/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ritvik.dev/work/</guid>
+      <guid>https://www.ritvik.dev/about/work/</guid>
       <description>   Project     Vibes Save Lives    </description>
     </item>
     

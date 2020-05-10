@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ritvik Banakar</title>
-    <link>https://www.ritvik.dev/tags/</link>
+    <link>https://www.ritvik.dev/about/tags/</link>
     <description>Recent content in Tags on Ritvik Banakar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Ritvik Banakar. Built with&amp;nbsp;&lt;a href=&#39;https://www.ritvik.dev/about-blog&#39;&gt;Hugo&lt;/a&gt;</copyright>
+    <copyright>Ritvik Banakar. Built with&amp;nbsp;&lt;a href=&#39;https://www.ritvik.dev/about/about-blog&#39;&gt;Hugo&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.ritvik.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ritvik.dev/about/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>52books2020</title>
-      <link>https://www.ritvik.dev/tags/52books2020/</link>
+      <link>https://www.ritvik.dev/about/tags/52books2020/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ritvik.dev/tags/52books2020/</guid>
+      <guid>https://www.ritvik.dev/about/tags/52books2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>books</title>
-      <link>https://www.ritvik.dev/tags/books/</link>
+      <link>https://www.ritvik.dev/about/tags/books/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ritvik.dev/tags/books/</guid>
+      <guid>https://www.ritvik.dev/about/tags/books/</guid>
       <description></description>
     </item>
     
