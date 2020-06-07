@@ -7,31 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ritvik Banakar. Built with&amp;nbsp;&lt;a href=&#39;https://www.ritvik.dev/about-blog&#39;&gt;Hugo&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 10 May 2020 13:47:08 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 13:47:08 -0700</lastBuildDate>
     
 	<atom:link href="https://www.ritvik.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Dark Matter</title>
+      <link>https://www.ritvik.dev/posts/books/b320/</link>
+      <pubDate>Wed, 03 Jun 2020 13:47:08 -0700</pubDate>
+      
+      <guid>https://www.ritvik.dev/posts/books/b320/</guid>
+      <description>Book 3 Started &amp;amp; Finished June 3rd 2020
+Review 4/5
+Thoughts Similar to Recursion, Dark Matter is yet another sci-fi thriller. Although the plot was slightly less convoluting, I felt a stronger connection to each of the characters. This book is a fun read and I recommend it for anyone interested in science fiction and mystery. Revolving on the idea of regret, the book provides a unique take on those moments when we wonder what if&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Win Friends &amp; Influence People</title>
+      <link>https://www.ritvik.dev/posts/books/b220/</link>
+      <pubDate>Wed, 27 May 2020 13:47:08 -0700</pubDate>
+      
+      <guid>https://www.ritvik.dev/posts/books/b220/</guid>
+      <description>Book 2 Finished May 2020
+Review 2/5
+Thoughts Dale Carnegie&amp;rsquo;s book follows a very simple structure of lesson, example, and finally reiteration of said lesson. I think that at first, the book was intriguing but after I had completed about a third of the book it began getting boring as it felt very repetitive. The numerous examples began having predictable outcomes and the lessons just felt dated as nowadays, many of his &amp;ldquo;rules&amp;rdquo; are just common sense.</description>
+    </item>
+    
+    <item>
+      <title>Recursion</title>
+      <link>https://www.ritvik.dev/posts/books/b120/</link>
+      <pubDate>Thu, 07 May 2020 13:47:08 -0700</pubDate>
+      
+      <guid>https://www.ritvik.dev/posts/books/b120/</guid>
+      <description>Book 1 Started &amp;amp; Finished May 7th 2020
+Review 4.5/5
+Thoughts I thought this book was great. It&amp;rsquo;s a relatively short read and for those interested in a sci-fi thriller this is a must read. The story kept me hooked and every time you thought you knew what was going on, a whole new twist appears. For those who haven&amp;rsquo;t read in a while and would like to get back, I highly recommend this book.</description>
+    </item>
+    
+    <item>
       <title>“If you don’t like to read, you haven’t found the right book.”</title>
       <link>https://www.ritvik.dev/posts/experiment1/</link>
-      <pubDate>Sun, 10 May 2020 13:47:08 -0700</pubDate>
+      <pubDate>Fri, 01 May 2020 13:47:08 -0700</pubDate>
       
       <guid>https://www.ritvik.dev/posts/experiment1/</guid>
       <description>Goal One Read 52 books in 2020
 Write a brief summary and takeaway for each book.
-Why? Books are an incredible dense source of material in which through active engagement, one can understand decades worth of research.</description>
+Why? Books are an incredible dense source of material in which through active engagement, one can understand decades worth of research. Through my summaries and takeaways I hope to encourage others to read more and learn a few lessons along the way :)</description>
     </item>
     
     <item>
       <title>The Goal</title>
       <link>https://www.ritvik.dev/posts/the-goal/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.ritvik.dev/posts/the-goal/</guid>
       <description>What is the point of this?
-Mission • To Experiment, Document, and Augment
-16 years old and still developing, my brain is in a rapid state of growth as I approach adulthood. I wanted to start this website because I believe that in this modern era, people unknowingly overstimulate themselves as they indulge in technological advancements primarily in entertainment. Our primitive lymbic system loves the binging and distracing as it&amp;rsquo;s primary purpose is to simply keep us alive.</description>
+Not really sure to be honest. Just looking for a place to rant about life.</description>
     </item>
     
     <item>
@@ -53,12 +85,48 @@ Mission • To Experiment, Document, and Augment
     </item>
     
     <item>
+      <title>Highlights</title>
+      <link>https://www.ritvik.dev/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ritvik.dev/work/</guid>
+      <description>   Project     Focusd: June 2020: Releasing Soon   Vave: June 2019: Coming Soon   Namma KKNC: January 2019   Vibes Save Lives: April 2018   Safe City: April 2018    </description>
+    </item>
+    
+    <item>
+      <title>Namma KKNC</title>
+      <link>https://www.ritvik.dev/projects/kknc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ritvik.dev/projects/kknc/</guid>
+      <description>This application was created in order to connect the KKNC community together. KKNC is a non profit organization focused on bringing Indian culture (specifically from Karnataka) to the Bay Area. For this application, I helped bring in ideas pertaining to how the app could appease younger children as well as older adults. In addition, I helped debug the application on both the iOS and Android platform. The special thing about this project is that even today there are thousands of people using it to connect with each other and with the KKNC events.</description>
+    </item>
+    
+    <item>
+      <title>Safe City</title>
+      <link>https://www.ritvik.dev/projects/safe_city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ritvik.dev/projects/safe_city/</guid>
+      <description>This program won third at Paly Hacks 2018, a hackathon hosted by Palo Alto High School. The app allows citizens to post reports to a specialized community stream. From the stream, city council members will be able to directly communicate to citizens who have posted the report. The citizens will be able to check the condition of the problem at hand as the council member works to resolve it. City Council and other authorized members will also be able to submit important news updates that pose an immediate threat to the community.</description>
+    </item>
+    
+    <item>
+      <title>Vave</title>
+      <link>https://www.ritvik.dev/projects/vave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ritvik.dev/projects/vave/</guid>
+      <description>This program won 1st in the crypto category at Angel Hacks 2019. This app allowed users to be incentivized to help one another in the programming community. With forums such as Stack Overflow, our team recognized that people do not have the drive and passion to answer questions accurately. We decided to create an application in which people could help one another, and be rewarded for doing a good job assisting.</description>
+    </item>
+    
+    <item>
       <title>Vibes Save Lives</title>
       <link>https://www.ritvik.dev/projects/vibes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.ritvik.dev/projects/vibes/</guid>
-      <description>Check out our video presentation to the City Council Of Cupertino by clicking here. This program won first at Hack Cupertino 2018, a city held hackthon. This project was one that was inspired by an interesting observation. Essentially, while listening to a sad Indian song I hypothesized that people that are depressed often listen to depressing/sad music as well. Through further research with the internet it turns out that my hypothesis was in fact correct.</description>
+      <description>Check out our video presentation to the City Council Of Cupertino by clicking here. This program won first at Hack Cupertino 2018, a city hosted hackthon. This project was one that was inspired by an interesting observation. Essentially, while listening to a sad Indian song I hypothesized that people that are depressed often listen to depressing/sad music as well. Through further research with the internet it turns out that my hypothesis was in fact correct.</description>
     </item>
     
     <item>
@@ -67,17 +135,8 @@ Mission • To Experiment, Document, and Augment
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.ritvik.dev/about/</guid>
-      <description>My name is Ritvik Banakar, and I am currently a junior at Monta Vista High School. I am interested in app development, computer programming, and physics, and am planning on pursuing a major in Computer Science.
-Github • LinkedIn • Instagram • Devpost</description>
-    </item>
-    
-    <item>
-      <title>Work</title>
-      <link>https://www.ritvik.dev/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ritvik.dev/work/</guid>
-      <description>   Project     Vibes Save Lives    </description>
+      <description>My name is Ritvik Banakar, and I am currently a senior at Monta Vista High School. I am interested in app development, self-improvement, and physics. Always working on being just a little bit better each day.
+Github • LinkedIn • Instagram • Devpost • Resume</description>
     </item>
     
   </channel>

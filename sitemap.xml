@@ -4,37 +4,52 @@
   
   <url>
     <loc>https://www.ritvik.dev/tags/52books2020/</loc>
-    <lastmod>2020-05-10T13:47:08-07:00</lastmod>
+    <lastmod>2020-06-03T13:47:08-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ritvik.dev/tags/books/</loc>
-    <lastmod>2020-05-10T13:47:08-07:00</lastmod>
+    <lastmod>2020-06-03T13:47:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/posts/books/b320/</loc>
+    <lastmod>2020-06-03T13:47:08-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ritvik.dev/posts/</loc>
-    <lastmod>2020-05-10T13:47:08-07:00</lastmod>
+    <lastmod>2020-06-03T13:47:08-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ritvik.dev/</loc>
-    <lastmod>2020-05-10T13:47:08-07:00</lastmod>
+    <lastmod>2020-06-03T13:47:08-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ritvik.dev/tags/</loc>
-    <lastmod>2020-05-10T13:47:08-07:00</lastmod>
+    <lastmod>2020-06-03T13:47:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/posts/books/b220/</loc>
+    <lastmod>2020-05-27T13:47:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/posts/books/b120/</loc>
+    <lastmod>2020-05-07T13:47:08-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ritvik.dev/posts/experiment1/</loc>
-    <lastmod>2020-05-10T13:47:08-07:00</lastmod>
+    <lastmod>2020-05-01T13:47:08-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ritvik.dev/posts/the-goal/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -50,7 +65,23 @@
   </url>
   
   <url>
+    <loc>https://www.ritvik.dev/work/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/projects/kknc/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.ritvik.dev/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/projects/safe_city/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ritvik.dev/projects/vave/</loc>
   </url>
   
   <url>
@@ -59,10 +90,6 @@
   
   <url>
     <loc>https://www.ritvik.dev/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.ritvik.dev/work/</loc>
   </url>
   
 </urlset>
