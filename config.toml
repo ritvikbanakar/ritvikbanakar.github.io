@@ -1,0 +1,52 @@
+baseURL = "https://www.ritvik.dev/"
+languageCode = "en-us"
+
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # "light" or "dark"
+  defaultTheme = "dark"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 4
+  # Show reading time in minutes for posts
+  showReadingTime = false
+
+[languages]
+  [languages.en]
+    title = "Ritvik Banakar"
+    keywords = ""
+    copyright = "Ritvik Banakar. Built with&nbsp;<a href='/about-blog'>Hugo</a>"
+    menuMore = "More"
+    writtenBy = "Written by"
+    readMore = "Read"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.en.params.logo]
+      logoText = "./ritvik.dev"
+      logoHomeLink = "/about"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+
+      [[languages.en.menu.main]]
+        identifier = "Blog"
+        name = "Blog"
+        url = "/posts"
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+    [[languages.en.menu.main]]
+        identifier = "work"
+        name = "Work"
+        url = "/work"
